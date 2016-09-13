@@ -1,6 +1,6 @@
 # Redux Leopard
 
-Leopard middleware for Redux.
+[Leopard](https://github.com/changbenny/leopard) middleware for Redux.
 
 ```sh
 npm install --save redux-leopard
